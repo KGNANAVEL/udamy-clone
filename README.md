@@ -23,7 +23,7 @@ This is a basic clone of the Udemy landing page built using pure **HTML** and **
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/KGNNAVEL/udemy-clone.git
+   https://github.com/KGNANAVEL/udamy-clone.git
 cd udemy-clone
 
 ---
